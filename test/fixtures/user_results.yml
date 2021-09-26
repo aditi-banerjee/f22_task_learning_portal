@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  users_exams_id: 1
+  question_id: 1
+  mcq_option_id: 1
+  is_skipped: false
+
+two:
+  users_exams_id: 1
+  question_id: 1
+  mcq_option_id: 1
+  is_skipped: false
